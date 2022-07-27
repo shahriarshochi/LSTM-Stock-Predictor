@@ -25,3 +25,8 @@ I am going to use the same parameters and training steps for each model. This is
 ### Evaluate the performance of each model
 
 Finally, the testing data will be used to evaluate each model and compare the performance.
+
+
+## Goal Of This Project:
+
+The main purpose of this project is to use deep learning recurrent neural networks to model bitcoin closing prices. The goal is to use a window of closing prices to predict the nth closing price.
